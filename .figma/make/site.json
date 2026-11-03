@@ -1,0 +1,10 @@
+{
+  "description": "Explore an interactive prototype flow that recreates the attached design, helping users preview and navigate its screens.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
